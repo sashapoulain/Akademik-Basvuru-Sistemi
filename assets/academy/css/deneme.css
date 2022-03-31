@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,100&display=swap');
+
+p{
+    font-family: 'Poppins' , sans-serif;
+    line-height: 14px;
+    background: url(assets/academy/img/us.jpg);
+    background-clip: text;
+    -webkit-background-clip: textbox;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    -webkit-text-fill-color: rgba(255,255,255,0);
+    background-size: 70vh;
+    background-position: center;
+
+
+}
+body{
+    background: aqua;
+    overflow:hidden;
+}

@@ -1,0 +1,6 @@
+{
+    "files.exclude": {
+        "php": true
+    },
+    "python.pythonPath": "html"
+}
